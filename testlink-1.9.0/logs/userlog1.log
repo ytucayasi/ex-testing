@@ -1,0 +1,2655 @@
+	[23/Sep/21 15:32:15][AUDIT][rq9j9moneg4sgfn6q9us3v7la7][GUI]
+		Login for 'admin' from '::1' succeeded
+[<<][650c61ff70746312004767][DEFAULT][/testlink/testlink-1.9.0/login.php][23/Sep/21 15:32:15][23/Sep/21 15:32:15][took 0.096036 secs]
+	[23/Sep/21 15:32:15][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650c61ff9c222722357588][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/21 15:32:15][23/Sep/21 15:32:15][took 0.23747 secs]
+[<<][650c620000baf022351894][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 15:32:16][23/Sep/21 15:32:16][took 0.164602 secs]
+[>>][650c620029676833485404][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 15:32:16]
+	[23/Sep/21 15:32:16][WARNING][rq9j9moneg4sgfn6q9us3v7la7][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 15:32:16][WARNING][rq9j9moneg4sgfn6q9us3v7la7][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 15:32:16][WARNING][rq9j9moneg4sgfn6q9us3v7la7][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650c620029676833485404][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 15:32:16][23/Sep/21 15:32:16][took 0.534047 secs]
+[<<][650c62000ee68804629726][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 15:32:16][23/Sep/21 15:32:16][took 0.68111 secs]
+[>>][650c6200b599d463127991][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 15:32:16]
+	[23/Sep/21 15:32:16][WARNING][rq9j9moneg4sgfn6q9us3v7la7][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 15:32:16][WARNING][rq9j9moneg4sgfn6q9us3v7la7][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 15:32:16][WARNING][rq9j9moneg4sgfn6q9us3v7la7][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 15:32:16][WARNING][rq9j9moneg4sgfn6q9us3v7la7][GUI]
+		No project found: Assume a new installation and redirect to create it
+[<<][650c6200b599d463127991][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 15:32:16][23/Sep/21 15:32:16][took 0.055142 secs]
+[<<][650c6200dc270190359223][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 15:32:16][23/Sep/21 15:32:17][took 0.179747 secs]
+[>>][650c620114333931251443][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 15:32:17]
+	[23/Sep/21 15:32:17][WARNING][rq9j9moneg4sgfn6q9us3v7la7][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 15:32:17][WARNING][rq9j9moneg4sgfn6q9us3v7la7][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 15:32:17][WARNING][rq9j9moneg4sgfn6q9us3v7la7][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 15:32:17][WARNING][rq9j9moneg4sgfn6q9us3v7la7][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650c620114333931251443][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 15:32:17][23/Sep/21 15:32:19][took 1.950314 secs]
+	[23/Sep/21 22:28:19][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'admin' from '::1' succeeded
+[<<][650cc38356017947333897][DEFAULT][/testlink/testlink-1.9.0/login.php][23/Sep/21 22:28:19][23/Sep/21 22:28:19][took 0.066923 secs]
+	[23/Sep/21 22:28:19][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cc38370cb9336598077][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/21 22:28:19][23/Sep/21 22:28:19][took 0.087658 secs]
+[<<][650cc38393b20903889392][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 22:28:19][23/Sep/21 22:28:19][took 0.098754 secs]
+[>>][650cc383abf47832954434][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 22:28:19]
+	[23/Sep/21 22:28:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 22:28:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 22:28:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cc383abf47832954434][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 22:28:19][23/Sep/21 22:28:19][took 0.204742 secs]
+[<<][650cc38393c49892760607][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 22:28:19][23/Sep/21 22:28:19][took 0.322796 secs]
+[>>][650cc383e51e7271850981][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 22:28:19]
+	[23/Sep/21 22:28:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 22:28:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 22:28:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 22:28:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		No project found: Assume a new installation and redirect to create it
+[<<][650cc383e51e7271850981][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 22:28:19][23/Sep/21 22:28:19][took 0.033463 secs]
+[<<][650cc38409302069469017][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 22:28:20][23/Sep/21 22:28:20][took 0.119255 secs]
+[>>][650cc38426760907384995][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 22:28:20]
+	[23/Sep/21 22:28:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 22:28:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 22:28:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 22:28:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cc38426760907384995][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 22:28:20][23/Sep/21 22:28:20][took 0.463797 secs]
+[<<][650cd243be9a8742037290][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:31:15][23/Sep/21 23:31:15][took 0.082457 secs]
+[>>][650cd243d350d307951885][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:31:15]
+	[23/Sep/21 23:31:15][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:31:15][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:31:15][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:31:15][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos' was created
+	[23/Sep/21 23:31:15][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd243d350d307951885][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:31:15][23/Sep/21 23:31:16][took 0.671629 secs]
+[<<][650cd244a83b9016692498][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:31:16][23/Sep/21 23:31:16][took 0.067078 secs]
+[>>][650cd244b8cb7608944093][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:31:16]
+	[23/Sep/21 23:31:16][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:31:16][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:31:16][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd244b8cb7608944093][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:31:16][23/Sep/21 23:31:16][took 0.028136 secs]
+[<<][650cd32b61a66019575756][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:35:07][23/Sep/21 23:35:07][took 0.085551 secs]
+[>>][650cd32b76c11261664049][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:35:07]
+	[23/Sep/21 23:35:07][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:35:07][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:35:07][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:35:07][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd32b76c11261664049][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:35:07][23/Sep/21 23:35:07][took 0.043627 secs]
+[<<][650cd3ae31dd5771318058][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:37:18][23/Sep/21 23:37:18][took 0.086585 secs]
+[>>][650cd3ae4745d712857711][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:37:18]
+	[23/Sep/21 23:37:18][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:18][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:18][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:18][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos' was saved
+	[23/Sep/21 23:37:18][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd3ae4745d712857711][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:37:18][23/Sep/21 23:37:18][took 0.061391 secs]
+[<<][650cd3ae6cf08676567052][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:37:18][23/Sep/21 23:37:18][took 0.103849 secs]
+[>>][650cd3ae8677b409646737][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:37:18]
+	[23/Sep/21 23:37:18][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:18][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:18][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd3ae8677b409646737][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:37:18][23/Sep/21 23:37:18][took 0.043218 secs]
+[<<][650cd3bf61e08371407657][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:37:35][23/Sep/21 23:37:35][took 0.083713 secs]
+[>>][650cd3bf767db199751757][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:37:35]
+	[23/Sep/21 23:37:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:35][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		All user roles were unassigned from the Test Project with id 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/21 23:37:35][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos' was deleted
+	[23/Sep/21 23:37:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd3bf767db199751757][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:37:35][23/Sep/21 23:37:35][took 0.200411 secs]
+[<<][650cd3bfb6beb314859755][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:37:35][23/Sep/21 23:37:35][took 0.071764 secs]
+[>>][650cd3bfc86b6907687769][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:37:35]
+	[23/Sep/21 23:37:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd3bfc86b6907687769][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:37:35][23/Sep/21 23:37:35][took 0.039304 secs]
+[<<][650cd3ca959c5540829112][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:37:46][23/Sep/21 23:37:46][took 0.116437 secs]
+[>>][650cd3cab26d3248391998][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:37:46]
+	[23/Sep/21 23:37:46][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:46][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:46][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:46][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:46][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Trying to get property of non-object - in C:\xampp\htdocs\testlink\testlink-1.9.0\gui\templates_c\%%25^252^2520047E%%projectEdit.tpl.php - Line 187
+	[23/Sep/21 23:37:46][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Trying to get property of non-object - in C:\xampp\htdocs\testlink\testlink-1.9.0\gui\templates_c\%%25^252^2520047E%%projectEdit.tpl.php - Line 195
+	[23/Sep/21 23:37:46][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Trying to get property of non-object - in C:\xampp\htdocs\testlink\testlink-1.9.0\gui\templates_c\%%25^252^2520047E%%projectEdit.tpl.php - Line 203
+	[23/Sep/21 23:37:46][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Trying to get property of non-object - in C:\xampp\htdocs\testlink\testlink-1.9.0\gui\templates_c\%%25^252^2520047E%%projectEdit.tpl.php - Line 211
+[<<][650cd3cab26d3248391998][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:37:46][23/Sep/21 23:37:46][took 0.114048 secs]
+[<<][650cd3cc725e2129300377][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:37:48][23/Sep/21 23:37:48][took 0.069757 secs]
+[>>][650cd3cc8396d941845094][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:37:48]
+	[23/Sep/21 23:37:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:37:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd3cc8396d941845094][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:37:48][23/Sep/21 23:37:48][took 0.06225 secs]
+	[23/Sep/21 23:43:40][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'admin' from '::1' succeeded
+[<<][650cd52c567d5002927141][DEFAULT][/testlink/testlink-1.9.0/login.php][23/Sep/21 23:43:40][23/Sep/21 23:43:40][took 0.005714 secs]
+	[23/Sep/21 23:43:40][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd52c63638460759991][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/21 23:43:40][23/Sep/21 23:43:40][took 0.061526 secs]
+[<<][650cd52c7fad1587464661][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:43:40][23/Sep/21 23:43:40][took 0.104771 secs]
+[>>][650cd52c99842467737827][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:43:40]
+	[23/Sep/21 23:43:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:43:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:43:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd52c99842467737827][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:43:40][23/Sep/21 23:43:40][took 0.04398 secs]
+[<<][650cd52c80117117428698][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 23:43:40][23/Sep/21 23:43:40][took 0.155126 secs]
+[>>][650cd52ca9b8c015004574][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 23:43:40]
+	[23/Sep/21 23:43:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:43:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:43:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:43:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		No project found: Assume a new installation and redirect to create it
+[<<][650cd52ca9b8c015004574][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 23:43:40][23/Sep/21 23:43:40][took 0.043156 secs]
+[<<][650cd52cc119e546522722][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:43:40][23/Sep/21 23:43:40][took 0.090104 secs]
+[>>][650cd52cd744c807098834][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:43:40]
+	[23/Sep/21 23:43:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:43:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:43:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:43:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd52cd744c807098834][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:43:40][23/Sep/21 23:43:40][took 0.043452 secs]
+[<<][650cd60c42ef4487027044][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:47:24][23/Sep/21 23:47:24][took 0.093975 secs]
+[>>][650cd60c5a19e215429864][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:47:24]
+	[23/Sep/21 23:47:24][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:47:24][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:47:24][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:47:24][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos' was created
+	[23/Sep/21 23:47:24][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd60c5a19e215429864][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:47:24][23/Sep/21 23:47:24][took 0.047748 secs]
+[<<][650cd60c76809718897125][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:47:24][23/Sep/21 23:47:24][took 0.099159 secs]
+[>>][650cd60c8ee2f682989649][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:47:24]
+	[23/Sep/21 23:47:24][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:47:24][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:47:24][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd60c8ee2f682989649][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:47:24][23/Sep/21 23:47:24][took 0.025275 secs]
+[<<][650cd61d7677f370065411][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:47:41][23/Sep/21 23:47:41][took 0.116858 secs]
+[>>][650cd61d93330367979996][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:47:41]
+	[23/Sep/21 23:47:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:47:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:47:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:47:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd61d93330367979996][DEFAULT][/testlink-1.9.0/lib/project/projectEdit.php][23/Sep/21 23:47:41][23/Sep/21 23:47:41][took 0.051899 secs]
+	[23/Sep/21 23:47:49][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:47:49][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:47:49][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:47:49][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:47:49][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:47:49][WARNING][<nosession>][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+[<<][650cd625dd257215513262][DEFAULT][/testlink/testlink-1.9.0/login.php][23/Sep/21 23:47:49][23/Sep/21 23:47:49][took 0.084882 secs]
+	[23/Sep/21 23:48:06][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:06][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:06][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:06][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:06][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:06][WARNING][<nosession>][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+[<<][650cd636adf87206648896][DEFAULT][/testlink/testlink-1.9.0/login.php][23/Sep/21 23:48:06][23/Sep/21 23:48:06][took 0.083686 secs]
+	[23/Sep/21 23:48:22][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:22][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:22][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:22][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:22][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:22][WARNING][<nosession>][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+[<<][650cd646b0d4c112246508][DEFAULT][/testlink/testlink-1.9.0/login.php][23/Sep/21 23:48:22][23/Sep/21 23:48:22][took 0.083261 secs]
+	[23/Sep/21 23:48:49][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:49][WARNING][<nosession>][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+[<<][650cd661754b8040701284][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/21 23:48:49][23/Sep/21 23:48:49][took 0.075632 secs]
+[<<][650cd661998a9827006785][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:48:49][23/Sep/21 23:48:49][took 0.108584 secs]
+[>>][650cd661b43f5343650845][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:48:49]
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'title_admin' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'title_admin' is not localized for locale 'es_ES'
+[<<][650cd661b43f5343650845][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:48:49][23/Sep/21 23:48:49][took 0.061014 secs]
+[<<][650cd66199e9d244854812][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 23:48:49][23/Sep/21 23:48:49][took 0.188739 secs]
+[>>][650cd661cb346998375508][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 23:48:49]
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'title_admin' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'current_test_plan' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_platform_assign' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_search_req' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_search_req_spec' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_inventory' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_platform_management' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_inventory_management' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_req_overview' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_print_req' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'title_documentation' is not localized for locale 'es_ES'
+[<<][650cd661cb346998375508][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 23:48:49][23/Sep/21 23:48:50][took 0.157957 secs]
+	[23/Sep/21 23:48:56][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:56][WARNING][<nosession>][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+[<<][650cd6682c3e8515484532][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/21 23:48:56][23/Sep/21 23:48:56][took 0.09737 secs]
+[<<][650cd6685424b110816877][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:48:56][23/Sep/21 23:48:56][took 0.132741 secs]
+[>>][650cd66874dc6226047742][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:48:56]
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'title_admin' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'title_admin' is not localized for locale 'es_ES'
+[<<][650cd66874dc6226047742][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:48:56][23/Sep/21 23:48:56][took 0.056083 secs]
+[<<][650cd668543f8595738224][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 23:48:56][23/Sep/21 23:48:56][took 0.193519 secs]
+[>>][650cd66888aa8052671555][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 23:48:56]
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'title_admin' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'current_test_plan' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_platform_assign' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_search_req' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_search_req_spec' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_inventory' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_platform_management' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_inventory_management' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_req_overview' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_print_req' is not localized for locale 'es_ES'
+	[23/Sep/21 23:48:56][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'title_documentation' is not localized for locale 'es_ES'
+[<<][650cd66888aa8052671555][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 23:48:56][23/Sep/21 23:48:56][took 0.15621 secs]
+[<<][650cd67ee4ce3321452659][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/21 23:49:18][23/Sep/21 23:49:19][took 0.110664 secs]
+[>>][650cd67f0bd8c606650628][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/21 23:49:19]
+	[23/Sep/21 23:49:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+[<<][650cd67f0bd8c606650628][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/21 23:49:19][23/Sep/21 23:49:19][took 0.073554 secs]
+[<<][650cd67f2ed19387768349][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/21 23:49:19][23/Sep/21 23:49:19][took 0.121599 secs]
+[>>][650cd67f4cab0568541698][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/21 23:49:19]
+	[23/Sep/21 23:49:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+[<<][650cd67f4cab0568541698][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/21 23:49:19][23/Sep/21 23:49:19][took 0.12111 secs]
+[<<][650cd67f2f241414360664][DEFAULT][/lib/testcases/listTestCases.php][23/Sep/21 23:49:19][23/Sep/21 23:49:19][took 0.24467 secs]
+[>>][650cd67f6fb83732706649][DEFAULT][/lib/testcases/listTestCases.php][23/Sep/21 23:49:19]
+	[23/Sep/21 23:49:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_somebody' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_hide_cf' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_reorder_testcases_externalid' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'keyword' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'caption_nav_settings' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'caption_nav_filters' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'platform' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_on' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'keyword' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'caption_nav_filters' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'platform' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_remove_all_tester_assignments' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_reset_filters' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_bulk_update_to_latest_version' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'document_id' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'req_expected_coverage' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'req_type' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'req_spec_type' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'has_relation_type' is not localized for locale 'es_ES'
+	[23/Sep/21 23:49:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_export_testplan_tree' is not localized for locale 'es_ES'
+[<<][650cd67f6fb83732706649][DEFAULT][/lib/testcases/listTestCases.php][23/Sep/21 23:49:19][23/Sep/21 23:49:20][took 1.32103 secs]
+[<<][650cd680e191e437419253][DEFAULT][/testlink-1.9.0/lib/ajax/gettprojectnodes.php][23/Sep/21 23:49:20][23/Sep/21 23:49:21][took 0.112514 secs]
+[>>][650cd68109345892462641][DEFAULT][/testlink-1.9.0/lib/ajax/gettprojectnodes.php][23/Sep/21 23:49:21]
+	[23/Sep/21 23:49:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd68109345892462641][DEFAULT][/testlink-1.9.0/lib/ajax/gettprojectnodes.php][23/Sep/21 23:49:21][23/Sep/21 23:49:21][took 0.031944 secs]
+[<<][650cd68d59a9d719876443][DEFAULT][/testlink/testlink-1.9.0/logout.php][23/Sep/21 23:49:33][23/Sep/21 23:49:33][took 0.112946 secs]
+[>>][650cd68d75720649873773][DEFAULT][/testlink/testlink-1.9.0/logout.php][23/Sep/21 23:49:33]
+	[23/Sep/21 23:49:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:33][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'admin'
+	[23/Sep/21 23:49:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'admin' from '::1' succeeded
+[<<][650cd6939a212456172303][DEFAULT][/testlink/testlink-1.9.0/login.php][23/Sep/21 23:49:39][23/Sep/21 23:49:39][took 0.008034 secs]
+	[23/Sep/21 23:49:39][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd693a9b44923451873][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/21 23:49:39][23/Sep/21 23:49:39][took 0.071536 secs]
+[<<][650cd693cae55223347020][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:49:39][23/Sep/21 23:49:39][took 0.12351 secs]
+[>>][650cd693e93e3822891786][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:49:39]
+	[23/Sep/21 23:49:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd693e93e3822891786][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:49:39][23/Sep/21 23:49:40][took 0.058011 secs]
+[<<][650cd693cc9c5595935184][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 23:49:39][23/Sep/21 23:49:40][took 0.204476 secs]
+[>>][650cd6940d29a212409107][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 23:49:40]
+	[23/Sep/21 23:49:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:49:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd6940d29a212409107][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 23:49:40][23/Sep/21 23:49:40][took 0.108272 secs]
+[<<][650cd6a961eea554432561][DEFAULT][/testlink/testlink-1.9.0/logout.php][23/Sep/21 23:50:01][23/Sep/21 23:50:01][took 0.099523 secs]
+[>>][650cd6a97a8e3404643193][DEFAULT][/testlink/testlink-1.9.0/logout.php][23/Sep/21 23:50:01]
+	[23/Sep/21 23:50:01][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:50:01][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'admin'
+	[23/Sep/21 23:52:13][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'admin' from '::1' succeeded
+[<<][650cd72d80fb3184244133][DEFAULT][/testlink/testlink-1.9.0/login.php][23/Sep/21 23:52:13][23/Sep/21 23:52:13][took 0.006768 secs]
+	[23/Sep/21 23:52:13][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd72d96b2e840728054][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/21 23:52:13][23/Sep/21 23:52:13][took 0.076793 secs]
+[<<][650cd72dba02e893726761][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:52:13][23/Sep/21 23:52:13][took 0.11194 secs]
+[>>][650cd72dd5ac4744725524][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:52:13]
+	[23/Sep/21 23:52:13][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:13][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:13][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd72dd5ac4744725524][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/21 23:52:13][23/Sep/21 23:52:13][took 0.064544 secs]
+[<<][650cd72dba791179499262][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 23:52:13][23/Sep/21 23:52:13][took 0.200192 secs]
+[>>][650cd72defda7248003049][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 23:52:13]
+	[23/Sep/21 23:52:14][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:14][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:14][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:14][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:14][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:14][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:14][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd72defda7248003049][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/21 23:52:13][23/Sep/21 23:52:14][took 0.095871 secs]
+[<<][650cd730ada13016534045][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/21 23:52:16][23/Sep/21 23:52:16][took 0.066875 secs]
+[>>][650cd730be24e702602087][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/21 23:52:16]
+	[23/Sep/21 23:52:16][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:16][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:16][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:16][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:16][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:16][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:16][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:17][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Undefined index: checked_hide_inactive_users - in C:\xampp\htdocs\testlink\testlink-1.9.0\gui\templates_c\%%F8^F85^F85A18E7%%usersAssign.tpl.php - Line 189
+[<<][650cd730be24e702602087][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/21 23:52:16][23/Sep/21 23:52:17][took 0.718503 secs]
+[<<][650cd7526ebb3119920118][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/21 23:52:50][23/Sep/21 23:52:50][took 0.088384 secs]
+[>>][650cd75284915160575749][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/21 23:52:50]
+	[23/Sep/21 23:52:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:50][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		All user roles were unassigned from the Test Project with id 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/21 23:52:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:50][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		User 'Aldahyr' was assigned the role 'test designer' to the Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/21 23:52:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:50][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		User 'yohel' was assigned the role 'tester' to the Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/21 23:52:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Undefined index: checked_hide_inactive_users - in C:\xampp\htdocs\testlink\testlink-1.9.0\gui\templates_c\%%F8^F85^F85A18E7%%usersAssign.tpl.php - Line 189
+[<<][650cd75284915160575749][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/21 23:52:50][23/Sep/21 23:52:50][took 0.114447 secs]
+[<<][650cd755409da572689739][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/21 23:52:53][23/Sep/21 23:52:53][took 0.078603 secs]
+[>>][650cd75553f81505695706][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/21 23:52:53]
+	[23/Sep/21 23:52:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:53][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		All user roles were unassigned from the Test Project with id 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/21 23:52:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:53][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		User 'Aldahyr' was assigned the role 'test designer' to the Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/21 23:52:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:53][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		User 'yohel' was assigned the role 'tester' to the Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/21 23:52:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:52:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Undefined index: checked_hide_inactive_users - in C:\xampp\htdocs\testlink\testlink-1.9.0\gui\templates_c\%%F8^F85^F85A18E7%%usersAssign.tpl.php - Line 189
+[<<][650cd75553f81505695706][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/21 23:52:53][23/Sep/21 23:52:53][took 0.114442 secs]
+[<<][650cd75f3ec00804040530][DEFAULT][/lib/usermanagement/usersView.php][23/Sep/21 23:53:03][23/Sep/21 23:53:03][took 0.082947 secs]
+[>>][650cd75f5331d123675177][DEFAULT][/lib/usermanagement/usersView.php][23/Sep/21 23:53:03]
+	[23/Sep/21 23:53:03][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:53:03][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:53:03][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:53:03][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:53:03][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:53:03][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:53:03][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd75f5331d123675177][DEFAULT][/lib/usermanagement/usersView.php][23/Sep/21 23:53:03][23/Sep/21 23:53:03][took 0.477895 secs]
+[<<][650cd765d7e3d165078737][DEFAULT][/lib/usermanagement/rolesView.php][23/Sep/21 23:53:09][23/Sep/21 23:53:09][took 0.088062 secs]
+[>>][650cd765ed908209348922][DEFAULT][/lib/usermanagement/rolesView.php][23/Sep/21 23:53:09]
+	[23/Sep/21 23:53:09][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:53:09][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:53:09][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650cd765ed908209348922][DEFAULT][/lib/usermanagement/rolesView.php][23/Sep/21 23:53:09][23/Sep/21 23:53:10][took 0.305827 secs]
+[<<][650cd767ae44d284629414][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/21 23:53:11][23/Sep/21 23:53:11][took 0.071769 secs]
+[>>][650cd767c015c929043940][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/21 23:53:11]
+	[23/Sep/21 23:53:11][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:53:11][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:53:11][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:53:11][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:53:11][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:53:11][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:53:11][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:53:11][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Undefined index: checked_hide_inactive_users - in C:\xampp\htdocs\testlink\testlink-1.9.0\gui\templates_c\%%F8^F85^F85A18E7%%usersAssign.tpl.php - Line 189
+[<<][650cd767c015c929043940][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/21 23:53:11][23/Sep/21 23:53:11][took 0.079879 secs]
+[<<][650cd7a0c0d7a576639746][DEFAULT][/testlink/testlink-1.9.0/logout.php][23/Sep/21 23:54:08][23/Sep/21 23:54:08][took 0.085884 secs]
+[>>][650cd7a0d6017121457569][DEFAULT][/testlink/testlink-1.9.0/logout.php][23/Sep/21 23:54:08]
+	[23/Sep/21 23:54:08][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/21 23:54:08][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'admin'
+	[23/Sep/22 21:48:46][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'admin' from '::1' succeeded
+[<<][650e0bbeaae21870295739][DEFAULT][/testlink/testlink-1.9.0/login.php][23/Sep/22 21:48:46][23/Sep/22 21:48:46][took 0.024613 secs]
+	[23/Sep/22 21:48:46][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0bbebcfac511277074][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/22 21:48:46][23/Sep/22 21:48:46][took 0.060539 secs]
+[<<][650e0bbed5d6e566644643][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:48:46][23/Sep/22 21:48:47][took 0.146304 secs]
+[>>][650e0bbf05964016824743][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:48:47]
+	[23/Sep/22 21:48:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0bbf05964016824743][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:48:47][23/Sep/22 21:48:47][took 0.049997 secs]
+[<<][650e0bbed5ea8930888593][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:48:46][23/Sep/22 21:48:47][took 0.248221 secs]
+[>>][650e0bbf2098a665740042][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:48:47]
+	[23/Sep/22 21:48:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0bbf2098a665740042][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:48:47][23/Sep/22 21:48:47][took 0.081262 secs]
+[<<][650e0bd5dd30c028971344][DEFAULT][/testlink-1.9.0/lib/plan/planView.php][23/Sep/22 21:49:09][23/Sep/22 21:49:10][took 0.364901 secs]
+[>>][650e0bd6427ce424378086][DEFAULT][/testlink-1.9.0/lib/plan/planView.php][23/Sep/22 21:49:10]
+	[23/Sep/22 21:49:10][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:49:10][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:49:10][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0bd6427ce424378086][DEFAULT][/testlink-1.9.0/lib/plan/planView.php][23/Sep/22 21:49:10][23/Sep/22 21:49:10][took 0.713316 secs]
+[<<][650e0bd88af38474529592][DEFAULT][/testlink-1.9.0/lib/plan/planEdit.php][23/Sep/22 21:49:12][23/Sep/22 21:49:12][took 0.302487 secs]
+[>>][650e0bd8d4f89737163290][DEFAULT][/testlink-1.9.0/lib/plan/planEdit.php][23/Sep/22 21:49:12]
+	[23/Sep/22 21:49:12][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:49:12][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:49:12][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:49:12][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0bd8d4f89737163290][DEFAULT][/testlink-1.9.0/lib/plan/planEdit.php][23/Sep/22 21:49:12][23/Sep/22 21:49:13][took 0.35611 secs]
+[<<][650e0bf703ad5163884522][DEFAULT][/testlink-1.9.0/lib/plan/planEdit.php][23/Sep/22 21:49:43][23/Sep/22 21:49:43][took 0.274219 secs]
+[>>][650e0bf746cc3508484264][DEFAULT][/testlink-1.9.0/lib/plan/planEdit.php][23/Sep/22 21:49:43]
+	[23/Sep/22 21:49:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:49:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:49:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:49:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:49:43][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos' - Test Plan 'ciclo 1' was created
+[<<][650e0bf746cc3508484264][DEFAULT][/testlink-1.9.0/lib/plan/planEdit.php][23/Sep/22 21:49:43][23/Sep/22 21:49:43][took 0.074596 secs]
+[<<][650e0c0001ae2715608844][DEFAULT][/testlink-1.9.0/lib/plan/planEdit.php][23/Sep/22 21:49:52][23/Sep/22 21:49:52][took 0.279764 secs]
+[>>][650e0c00462b6352523762][DEFAULT][/testlink-1.9.0/lib/plan/planEdit.php][23/Sep/22 21:49:52]
+	[23/Sep/22 21:49:52][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:49:52][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:49:52][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:49:52][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c00462b6352523762][DEFAULT][/testlink-1.9.0/lib/plan/planEdit.php][23/Sep/22 21:49:52][23/Sep/22 21:49:52][took 0.054519 secs]
+[<<][650e0c02da446471818971][DEFAULT][/testlink-1.9.0/lib/plan/planView.php][23/Sep/22 21:49:54][23/Sep/22 21:49:55][took 0.270767 secs]
+[>>][650e0c03287a1076601691][DEFAULT][/testlink-1.9.0/lib/plan/planView.php][23/Sep/22 21:49:55]
+	[23/Sep/22 21:49:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:49:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:49:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c03287a1076601691][DEFAULT][/testlink-1.9.0/lib/plan/planView.php][23/Sep/22 21:49:55][23/Sep/22 21:49:55][took 0.041868 secs]
+[<<][650e0c151a5a5842351673][DEFAULT][/testlink-1.9.0/lib/plan/planEdit.php][23/Sep/22 21:50:13][23/Sep/22 21:50:13][took 0.275455 secs]
+[>>][650e0c155dc7e954652438][DEFAULT][/testlink-1.9.0/lib/plan/planEdit.php][23/Sep/22 21:50:13]
+	[23/Sep/22 21:50:13][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:50:13][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:50:13][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:50:13][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c155dc7e954652438][DEFAULT][/testlink-1.9.0/lib/plan/planEdit.php][23/Sep/22 21:50:13][23/Sep/22 21:50:13][took 0.049278 secs]
+[<<][650e0c259454a596073290][DEFAULT][/testlink-1.9.0/lib/plan/planEdit.php][23/Sep/22 21:50:29][23/Sep/22 21:50:29][took 0.163336 secs]
+[>>][650e0c25bc6b1567342741][DEFAULT][/testlink-1.9.0/lib/plan/planEdit.php][23/Sep/22 21:50:29]
+	[23/Sep/22 21:50:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:50:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:50:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:50:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:50:29][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos' - Test Plan 'ciclo 1' was saved
+[<<][650e0c25bc6b1567342741][DEFAULT][/testlink-1.9.0/lib/plan/planEdit.php][23/Sep/22 21:50:29][23/Sep/22 21:50:29][took 0.058309 secs]
+	[23/Sep/22 21:50:35][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c2b893b3919537791][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/22 21:50:35][23/Sep/22 21:50:35][took 0.058261 secs]
+[<<][650e0c2ba1dba787115306][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:50:35][23/Sep/22 21:50:35][took 0.072704 secs]
+[>>][650e0c2bb3c87995628053][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:50:35]
+	[23/Sep/22 21:50:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:50:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:50:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c2bb3c87995628053][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:50:35][23/Sep/22 21:50:35][took 0.035656 secs]
+[<<][650e0c2ba290e000572714][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:50:35][23/Sep/22 21:50:35][took 0.129022 secs]
+[>>][650e0c2bc3251618919578][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:50:35]
+	[23/Sep/22 21:50:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:50:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:50:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:50:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:50:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:50:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:50:35][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c2bc3251618919578][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:50:35][23/Sep/22 21:50:35][took 0.076259 secs]
+[<<][650e0c4e93e3b708680529][DEFAULT][/testlink-1.9.0/lib/plan/buildView.php][23/Sep/22 21:51:10][23/Sep/22 21:51:10][took 0.075397 secs]
+[>>][650e0c4ea676d916294118][DEFAULT][/testlink-1.9.0/lib/plan/buildView.php][23/Sep/22 21:51:10]
+	[23/Sep/22 21:51:10][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:51:10][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:51:10][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:51:10][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c4ea676d916294118][DEFAULT][/testlink-1.9.0/lib/plan/buildView.php][23/Sep/22 21:51:10][23/Sep/22 21:51:11][took 0.392756 secs]
+[<<][650e0c5111222869251404][DEFAULT][/testlink-1.9.0/lib/plan/buildEdit.php][23/Sep/22 21:51:13][23/Sep/22 21:51:13][took 0.07768 secs]
+[>>][650e0c5124488032173091][DEFAULT][/testlink-1.9.0/lib/plan/buildEdit.php][23/Sep/22 21:51:13]
+	[23/Sep/22 21:51:13][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:51:13][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:51:13][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:51:13][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c5124488032173091][DEFAULT][/testlink-1.9.0/lib/plan/buildEdit.php][23/Sep/22 21:51:13][23/Sep/22 21:51:13][took 0,340491 secs]
+[<<][650e0c7fed2e3701483731][DEFAULT][/testlink-1.9.0/lib/plan/buildEdit.php][23/Sep/22 21:51:59][23/Sep/22 21:52:00][took 0.088623 secs]
+[>>][650e0c800ee18827809430][DEFAULT][/testlink-1.9.0/lib/plan/buildEdit.php][23/Sep/22 21:52:00]
+	[23/Sep/22 21:52:00][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:00][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:00][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:00][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:00][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos' - Test Plan 'ciclo 1' - Build 'buil 1 de pruebas' was created
+[<<][650e0c800ee18827809430][DEFAULT][/testlink-1.9.0/lib/plan/buildEdit.php][23/Sep/22 21:52:00][23/Sep/22 21:52:00][took 0,070266 secs]
+[<<][650e0c821f2fe844631706][DEFAULT][/testlink-1.9.0/lib/plan/buildEdit.php][23/Sep/22 21:52:02][23/Sep/22 21:52:02][took 0.089141 secs]
+[>>][650e0c82353ef834734270][DEFAULT][/testlink-1.9.0/lib/plan/buildEdit.php][23/Sep/22 21:52:02]
+	[23/Sep/22 21:52:02][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:02][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:02][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:02][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c82353ef834734270][DEFAULT][/testlink-1.9.0/lib/plan/buildEdit.php][23/Sep/22 21:52:02][23/Sep/22 21:52:02][took 0,062974 secs]
+[<<][650e0c8392695969708530][DEFAULT][/testlink-1.9.0/lib/plan/buildView.php][23/Sep/22 21:52:03][23/Sep/22 21:52:03][took 0.078367 secs]
+[>>][650e0c83a5c0b511450114][DEFAULT][/testlink-1.9.0/lib/plan/buildView.php][23/Sep/22 21:52:03]
+	[23/Sep/22 21:52:03][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:03][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:03][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:03][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c83a5c0b511450114][DEFAULT][/testlink-1.9.0/lib/plan/buildView.php][23/Sep/22 21:52:03][23/Sep/22 21:52:03][took 0,059116 secs]
+	[23/Sep/22 21:52:04][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c849b38f188701367][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/22 21:52:04][23/Sep/22 21:52:04][took 0.078749 secs]
+[<<][650e0c84bab60111818277][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:52:04][23/Sep/22 21:52:04][took 0.088436 secs]
+[>>][650e0c84d085e790091856][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:52:04]
+	[23/Sep/22 21:52:04][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:04][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:04][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c84d085e790091856][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:52:04][23/Sep/22 21:52:04][took 0.049375 secs]
+[<<][650e0c84badff726016440][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:52:04][23/Sep/22 21:52:05][took 0.231888 secs]
+[>>][650e0c850140a477875837][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:52:05]
+	[23/Sep/22 21:52:05][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:05][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:05][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:05][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:05][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:05][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:05][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c850140a477875837][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:52:05][23/Sep/22 21:52:05][took 0.093462 secs]
+[<<][650e0c8b405a7827346623][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/22 21:52:11][23/Sep/22 21:52:11][took 0.365782 secs]
+[>>][650e0c8b99e50618816822][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/22 21:52:11]
+	[23/Sep/22 21:52:11][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:11][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:11][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:11][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:11][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:11][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:11][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c8b99e50618816822][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/22 21:52:11][23/Sep/22 21:52:12][took 0.560569 secs]
+	[23/Sep/22 21:52:18][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c926c926727729013][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/22 21:52:18][23/Sep/22 21:52:18][took 0.293339 secs]
+[<<][650e0c92c0dfd745984781][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:52:18][23/Sep/22 21:52:19][took 0.321656 secs]
+[>>][650e0c931cb90957790295][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:52:19]
+	[23/Sep/22 21:52:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c931cb90957790295][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:52:19][23/Sep/22 21:52:19][took 0.096613 secs]
+[<<][650e0c92c0a03580308723][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:52:18][23/Sep/22 21:52:19][took 0.476144 secs]
+[>>][650e0c934291f519954158][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:52:19]
+	[23/Sep/22 21:52:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c934291f519954158][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:52:19][23/Sep/22 21:52:19][took 0.054232 secs]
+[<<][650e0c94da8e6836958338][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/22 21:52:20][23/Sep/22 21:52:21][took 0.292211 secs]
+[>>][650e0c952deed690559303][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/22 21:52:21]
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c952deed690559303][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/22 21:52:21][23/Sep/22 21:52:21][took 0.04121 secs]
+[<<][650e0c95468b6945402522][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/22 21:52:21][23/Sep/22 21:52:21][took 0.304452 secs]
+[>>][650e0c95910c0368905972][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/22 21:52:21]
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c95910c0368905972][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/22 21:52:21][23/Sep/22 21:52:21][took 0.052533 secs]
+[<<][650e0c954b90c254109088][DEFAULT][/testlink-1.9.0/lib/execute/execNavigator.php][23/Sep/22 21:52:21][23/Sep/22 21:52:21][took 0.392774 secs]
+[>>][650e0c95b71a1789222065][DEFAULT][/testlink-1.9.0/lib/execute/execNavigator.php][23/Sep/22 21:52:21]
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Undefined index: childNodes - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\treeMenu.inc.php - Line 1096
+	[23/Sep/22 21:52:21][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c95b71a1789222065][DEFAULT][/testlink-1.9.0/lib/execute/execNavigator.php][23/Sep/22 21:52:21][23/Sep/22 21:52:22][took 0.303439 secs]
+	[23/Sep/22 21:52:31][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c9eddbc6613741332][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/22 21:52:30][23/Sep/22 21:52:31][took 0.305034 secs]
+[<<][650e0c9f4307c855193104][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:52:31][23/Sep/22 21:52:31][took 0.332177 secs]
+[>>][650e0c9f94513700843658][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:52:31]
+	[23/Sep/22 21:52:31][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:31][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:31][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c9f94513700843658][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:52:31][23/Sep/22 21:52:31][took 0.048551 secs]
+[<<][650e0c9f43359491434174][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:52:31][23/Sep/22 21:52:31][took 0.339864 secs]
+[>>][650e0c9fa7b15298340779][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:52:31]
+	[23/Sep/22 21:52:31][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:31][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:31][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:31][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:31][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:31][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:31][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0c9fa7b15298340779][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:52:31][23/Sep/22 21:52:31][took 0.090991 secs]
+[<<][650e0caaa08cb360305156][DEFAULT][/lib/testcases/tcAssignedToUser.php][23/Sep/22 21:52:42][23/Sep/22 21:52:42][took 0.328365 secs]
+[>>][650e0caaf0e62023726373][DEFAULT][/lib/testcases/tcAssignedToUser.php][23/Sep/22 21:52:42]
+	[23/Sep/22 21:52:42][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0caaf0e62023726373][DEFAULT][/lib/testcases/tcAssignedToUser.php][23/Sep/22 21:52:42][23/Sep/22 21:52:43][took 0.244238 secs]
+[<<][650e0cad96de6597799280][DEFAULT][/lib/testcases/tcAssignedToUser.php][23/Sep/22 21:52:45][23/Sep/22 21:52:45][took 0.284534 secs]
+[>>][650e0caddc7eb955112299][DEFAULT][/lib/testcases/tcAssignedToUser.php][23/Sep/22 21:52:45]
+	[23/Sep/22 21:52:45][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:45][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:45][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:45][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:45][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:45][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0caddc7eb955112299][DEFAULT][/lib/testcases/tcAssignedToUser.php][23/Sep/22 21:52:45][23/Sep/22 21:52:45][took 0.056814 secs]
+[<<][650e0caf05ede742692386][DEFAULT][/lib/testcases/tcAssignedToUser.php][23/Sep/22 21:52:47][23/Sep/22 21:52:47][took 0.292449 secs]
+[>>][650e0caf4d84f506146002][DEFAULT][/lib/testcases/tcAssignedToUser.php][23/Sep/22 21:52:47]
+	[23/Sep/22 21:52:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0caf4d84f506146002][DEFAULT][/lib/testcases/tcAssignedToUser.php][23/Sep/22 21:52:47][23/Sep/22 21:52:47][took 0.05353 secs]
+	[23/Sep/22 21:52:51][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0cb2dd1da070092795][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/22 21:52:50][23/Sep/22 21:52:51][took 0.296329 secs]
+[<<][650e0cb33f679438226670][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:52:51][23/Sep/22 21:52:51][took 0.323419 secs]
+[>>][650e0cb390f91585658300][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:52:51]
+	[23/Sep/22 21:52:51][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:51][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:51][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0cb390f91585658300][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:52:51][23/Sep/22 21:52:51][took 0.03763 secs]
+[<<][650e0cb33fa36712955113][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:52:51][23/Sep/22 21:52:51][took 0.382828 secs]
+[>>][650e0cb3a02d0513349826][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:52:51]
+	[23/Sep/22 21:52:51][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:51][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:51][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:51][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:51][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:51][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:51][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0cb3a02d0513349826][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:52:51][23/Sep/22 21:52:51][took 0.090242 secs]
+[<<][650e0cb61cf54421347856][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/22 21:52:54][23/Sep/22 21:52:54][took 0.267619 secs]
+[>>][650e0cb65e7cd576351770][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/22 21:52:54]
+	[23/Sep/22 21:52:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0cb65e7cd576351770][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/22 21:52:54][23/Sep/22 21:52:54][took 0.01986 secs]
+[<<][650e0cb671ffd541057823][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/22 21:52:54][23/Sep/22 21:52:54][took 0.091783 secs]
+[>>][650e0cb688aa8597304251][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/22 21:52:54]
+	[23/Sep/22 21:52:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0cb688aa8597304251][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/22 21:52:54][23/Sep/22 21:52:54][took 0.01842 secs]
+[<<][650e0cb6777af979724342][DEFAULT][/lib/plan/planAddTCNavigator.php][23/Sep/22 21:52:54][23/Sep/22 21:52:54][took 0.107581 secs]
+[>>][650e0cb692715081614504][DEFAULT][/lib/plan/planAddTCNavigator.php][23/Sep/22 21:52:54]
+	[23/Sep/22 21:52:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:52:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0cb692715081614504][DEFAULT][/lib/plan/planAddTCNavigator.php][23/Sep/22 21:52:54][23/Sep/22 21:52:54][took 0.20527 secs]
+[<<][650e0cb6dc45c677410058][DEFAULT][/testlink-1.9.0/lib/ajax/gettprojectnodes.php][23/Sep/22 21:52:54][23/Sep/22 21:52:54][took 0.067776 secs]
+[>>][650e0cb6ed0a4872111025][DEFAULT][/testlink-1.9.0/lib/ajax/gettprojectnodes.php][23/Sep/22 21:52:54]
+	[23/Sep/22 21:52:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0cb6ed0a4872111025][DEFAULT][/testlink-1.9.0/lib/ajax/gettprojectnodes.php][23/Sep/22 21:52:54][23/Sep/22 21:52:54][took 0.014899 secs]
+[<<][650e0cc491bc4035389552][DEFAULT][/testlink-1.9.0/lib/ajax/gettprojectnodes.php][23/Sep/22 21:53:08][23/Sep/22 21:53:08][took 0.078494 secs]
+[>>][650e0cc4a51ab141745776][DEFAULT][/testlink-1.9.0/lib/ajax/gettprojectnodes.php][23/Sep/22 21:53:08]
+	[23/Sep/22 21:53:08][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0cc4a51ab141745776][DEFAULT][/testlink-1.9.0/lib/ajax/gettprojectnodes.php][23/Sep/22 21:53:08][23/Sep/22 21:53:08][took 0.01256 secs]
+[<<][650e0cc605929080697100][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:53:10][23/Sep/22 21:53:10][took 0.145789 secs]
+[>>][650e0cc6296a7142939119][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:53:10]
+	[23/Sep/22 21:53:10][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:10][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:10][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:10][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:10][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:10][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:10][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:10][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0cc6296a7142939119][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:53:10][23/Sep/22 21:53:11][took 1.013711 secs]
+[<<][650e0ce3459e8509396010][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:53:39][23/Sep/22 21:53:39][took 0.077847 secs]
+[>>][650e0ce358cb4088804619][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:53:39]
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-1 : CP-01-RQ-01' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-5 : CP-02-RQ-01' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-6 : CP-03-RQ-01' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-7 : CP-01-RQ-02' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-8 : CP-02-RQ-02' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-9 : CP-03-RQ-02' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-10 : CP-04-RQ-02' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-11 : CP-05-RQ-02' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-12 : CP-01-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-13 : CP-02-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-14 : CP-03-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-15 : CP-04-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-16 : CP-05-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-17 : CP-06-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-18 : CP-07-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-19 : CP-08-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-20 : CP-09-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-21 : CP-01-RQ-04' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-22 : CP-02-RQ-04' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-23 : CP-03-RQ-04' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-24 : CP-01-RQ-05' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-25 : CP-02-RQ-05' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-26 : CP-03-RQ-05' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-27 : CP-01-RQ-06' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-28 : CP-01-RQ-07' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-29 : CP-02-RQ-07' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-30 : CP-01-RQ-08' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-31 : CP-02-RQ-08' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-32 : CP-03-RQ-08' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-33 : CP-01-RQ-09' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-34 : CP-02-RQ-09' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-35 : CP-03-RQ-09' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-36 : CP-04-RQ-09' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-37 : CP-01-RQ-10' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-38 : CP-02-RQ-10' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-39 : CP-03-RQ-10' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-40 : CP-04-RQ-10' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-41 : CP-01-RQ-11' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-42 : CP-02-RQ-11' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0ce358cb4088804619][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:53:39][23/Sep/22 21:53:40][took 0,814321 secs]
+[<<][650e0ce680cdb719062136][DEFAULT][/lib/ajax/gettestcasesummary.php][23/Sep/22 21:53:42][23/Sep/22 21:53:42][took 0.092059 secs]
+[>>][650e0ce6977c1351793301][DEFAULT][/lib/ajax/gettestcasesummary.php][23/Sep/22 21:53:42]
+	[23/Sep/22 21:53:42][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:42][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0ce6977c1351793301][DEFAULT][/lib/ajax/gettestcasesummary.php][23/Sep/22 21:53:42][23/Sep/22 21:53:42][took 0.040715 secs]
+[<<][650e0ce73ccf5994379921][DEFAULT][/lib/ajax/gettestcasesummary.php][23/Sep/22 21:53:43][23/Sep/22 21:53:43][took 0.084987 secs]
+[>>][650e0ce751c4b659052628][DEFAULT][/lib/ajax/gettestcasesummary.php][23/Sep/22 21:53:43]
+	[23/Sep/22 21:53:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0ce751c4b659052628][DEFAULT][/lib/ajax/gettestcasesummary.php][23/Sep/22 21:53:43][23/Sep/22 21:53:43][took 0.033789 secs]
+[<<][650e0ce7b9816515443602][DEFAULT][/lib/ajax/gettestcasesummary.php][23/Sep/22 21:53:43][23/Sep/22 21:53:43][took 0.090292 secs]
+[>>][650e0ce7cfb68974014027][DEFAULT][/lib/ajax/gettestcasesummary.php][23/Sep/22 21:53:43]
+	[23/Sep/22 21:53:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0ce7cfb68974014027][DEFAULT][/lib/ajax/gettestcasesummary.php][23/Sep/22 21:53:43][23/Sep/22 21:53:43][took 0.027872 secs]
+[<<][650e0cec10334289881539][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:53:48][23/Sep/22 21:53:48][took 0.076659 secs]
+[>>][650e0cec2318b376771695][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:53:48]
+	[23/Sep/22 21:53:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0cec2318b376771695][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:53:48][23/Sep/22 21:53:48][took 0.158682 secs]
+[<<][650e0cf2df351017509006][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:53:54][23/Sep/22 21:53:54][took 0.077426 secs]
+[>>][650e0cf2f24ca730765918][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:53:54]
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-43 : CP-01-RQNF-01' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-44 : CP-02-RQNF-01' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-45 : CP-03-RQNF-01' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-46 : CP-01-RQNF-02' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-47 : CP-02-RQNF-02' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-48 : CP-03-RQNF-02' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-49 : CP-01-RQNF-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-50 : CP-02-RQNF-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-51 : CP-01-RQNF-04' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-52 : CP-02-RQNF-04' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-53 : CP-01-RQNF-05' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-54 : CP-02-RQNF-05' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-55 : CP-01-RQNF-06' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-56 : CP-02-RQNF-06' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:53:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0cf2f24ca730765918][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:53:54][23/Sep/22 21:53:55][took 0,446492 secs]
+	[23/Sep/22 21:54:32][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0d18c1ad4452064948][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/22 21:54:32][23/Sep/22 21:54:32][took 0.069814 secs]
+[<<][650e0d18e08e1620898104][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:54:32][23/Sep/22 21:54:33][took 0.137383 secs]
+[>>][650e0d190e2cb243295013][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:54:33]
+	[23/Sep/22 21:54:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:54:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:54:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0d190e2cb243295013][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:54:33][23/Sep/22 21:54:33][took 0.041964 secs]
+[<<][650e0d18e08a7514278129][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:54:32][23/Sep/22 21:54:33][took 0.22528 secs]
+[>>][650e0d1923b66500262281][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:54:33]
+	[23/Sep/22 21:54:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:54:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:54:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:54:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:54:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:54:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:54:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0d1923b66500262281][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:54:33][23/Sep/22 21:54:33][took 0.093955 secs]
+[<<][650e0d2e51ac6025755088][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/22 21:54:54][23/Sep/22 21:54:54][took 0.318043 secs]
+[>>][650e0d2e9f7bc240368676][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/22 21:54:54]
+	[23/Sep/22 21:54:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:54:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:54:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:54:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:54:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:54:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:54:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:54:54][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Undefined index: checked_hide_inactive_users - in C:\xampp\htdocs\testlink\testlink-1.9.0\gui\templates_c\%%F8^F85^F85A18E7%%usersAssign.tpl.php - Line 189
+[<<][650e0d2e9f7bc240368676][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/22 21:54:54][23/Sep/22 21:54:54][took 0.079594 secs]
+[<<][650e0d448e87e120619030][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/22 21:55:16][23/Sep/22 21:55:16][took 0.327351 secs]
+[>>][650e0d44debc7619390178][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/22 21:55:16]
+	[23/Sep/22 21:55:16][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:16][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:16][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		All user roles were unassigned from the Test Project with id 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/22 21:55:16][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:16][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		User 'Aldahyr' was assigned the role 'senior tester' to the Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/22 21:55:16][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:16][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		User 'yohel' was assigned the role 'tester' to the Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/22 21:55:16][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:17][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:17][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:17][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:17][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:17][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Undefined index: checked_hide_inactive_users - in C:\xampp\htdocs\testlink\testlink-1.9.0\gui\templates_c\%%F8^F85^F85A18E7%%usersAssign.tpl.php - Line 189
+[<<][650e0d44debc7619390178][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/22 21:55:16][23/Sep/22 21:55:17][took 0.12865 secs]
+	[23/Sep/22 21:55:19][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0d46d813d040403738][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/22 21:55:18][23/Sep/22 21:55:19][took 0.300981 secs]
+[<<][650e0d473c663893374313][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:55:19][23/Sep/22 21:55:19][took 0.30676 secs]
+[>>][650e0d478997a122291874][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:55:19]
+	[23/Sep/22 21:55:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0d478997a122291874][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:55:19][23/Sep/22 21:55:19][took 0.045492 secs]
+[<<][650e0d473ca0b169052010][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:55:19][23/Sep/22 21:55:19][took 0.399035 secs]
+[>>][650e0d47a0532519938003][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:55:19]
+	[23/Sep/22 21:55:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:19][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0d47a0532519938003][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:55:19][23/Sep/22 21:55:19][took 0.09173 secs]
+[<<][650e0d50eb3df002252257][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/22 21:55:28][23/Sep/22 21:55:29][took 0.269314 secs]
+[>>][650e0d5139059510275869][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/22 21:55:29]
+	[23/Sep/22 21:55:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0d5139059510275869][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/22 21:55:29][23/Sep/22 21:55:29][took 0.016295 secs]
+[<<][650e0d514977f115533942][DEFAULT][/lib/plan/planAddTCNavigator.php][23/Sep/22 21:55:29][23/Sep/22 21:55:29][took 0.21227 secs]
+[>>][650e0d517d729592338882][DEFAULT][/lib/plan/planAddTCNavigator.php][23/Sep/22 21:55:29]
+	[23/Sep/22 21:55:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0d517d729592338882][DEFAULT][/lib/plan/planAddTCNavigator.php][23/Sep/22 21:55:29][23/Sep/22 21:55:29][took 0.055404 secs]
+[<<][650e0d5149838601443009][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/22 21:55:29][23/Sep/22 21:55:29][took 0.222262 secs]
+[>>][650e0d518fb25855616335][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/22 21:55:29]
+	[23/Sep/22 21:55:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0d518fb25855616335][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/22 21:55:29][23/Sep/22 21:55:29][took 0.020074 secs]
+[<<][650e0d519facf732237319][DEFAULT][/testlink-1.9.0/lib/ajax/gettprojectnodes.php][23/Sep/22 21:55:29][23/Sep/22 21:55:29][took 0.280659 secs]
+[>>][650e0d51e462d995326509][DEFAULT][/testlink-1.9.0/lib/ajax/gettprojectnodes.php][23/Sep/22 21:55:29]
+	[23/Sep/22 21:55:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0d51e462d995326509][DEFAULT][/testlink-1.9.0/lib/ajax/gettprojectnodes.php][23/Sep/22 21:55:29][23/Sep/22 21:55:29][took 0.01541 secs]
+[<<][650e0d52035c4320703493][DEFAULT][/testlink-1.9.0/lib/ajax/gettprojectnodes.php][23/Sep/22 21:55:30][23/Sep/22 21:55:30][took 0.263642 secs]
+[>>][650e0d5243e5e379340005][DEFAULT][/testlink-1.9.0/lib/ajax/gettprojectnodes.php][23/Sep/22 21:55:30]
+	[23/Sep/22 21:55:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0d5243e5e379340005][DEFAULT][/testlink-1.9.0/lib/ajax/gettprojectnodes.php][23/Sep/22 21:55:30][23/Sep/22 21:55:30][took 0.010445 secs]
+[<<][650e0d553b136293213234][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:55:33][23/Sep/22 21:55:33][took 0.271729 secs]
+[>>][650e0d557db16728847840][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:55:33]
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:33][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0d557db16728847840][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:55:33][23/Sep/22 21:55:33][took 0,284363 secs]
+[<<][650e0d5b177ae747291238][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:55:39][23/Sep/22 21:55:39][took 0.28773 secs]
+[>>][650e0d5b5de52267979434][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:55:39]
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:39][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0d5b5de52267979434][DEFAULT][/testlink-1.9.0/lib/plan/planAddTC.php][23/Sep/22 21:55:39][23/Sep/22 21:55:39][took 0,267802 secs]
+[<<][650e0d683544a597622554][DEFAULT][/testlink/testlink-1.9.0/logout.php][23/Sep/22 21:55:52][23/Sep/22 21:55:52][took 0.312795 secs]
+[>>][650e0d6881f57703983259][DEFAULT][/testlink/testlink-1.9.0/logout.php][23/Sep/22 21:55:52]
+	[23/Sep/22 21:55:52][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:55:52][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'admin'
+	[23/Sep/22 21:56:47][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'admin' from '::1' succeeded
+[<<][650e0d9fe8059611989089][DEFAULT][/testlink/testlink-1.9.0/login.php][23/Sep/22 21:56:47][23/Sep/22 21:56:47][took 0.017184 secs]
+	[23/Sep/22 21:56:48][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0da0084bd742813140][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/22 21:56:48][23/Sep/22 21:56:48][took 0.084727 secs]
+[<<][650e0da03343a528389794][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:56:48][23/Sep/22 21:56:48][took 0.249057 secs]
+[>>][650e0da07068c648256377][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:56:48]
+	[23/Sep/22 21:56:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:56:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:56:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0da07068c648256377][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:56:48][23/Sep/22 21:56:48][took 0.05711 secs]
+[<<][650e0da038e9a248408765][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:56:48][23/Sep/22 21:56:48][took 0.338699 secs]
+[>>][650e0da08c0a9455651339][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:56:48]
+	[23/Sep/22 21:56:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:56:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:56:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:56:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:56:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:56:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:56:48][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e0da08c0a9455651339][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:56:48][23/Sep/22 21:56:48][took 0.110344 secs]
+[<<][650e0da530287120022167][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/22 21:56:53][23/Sep/22 21:56:53][took 0.336747 secs]
+[>>][650e0da582946907324337][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/22 21:56:53]
+	[23/Sep/22 21:56:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:56:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:56:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:56:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:56:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:56:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:56:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:56:53][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Undefined index: checked_hide_inactive_users - in C:\xampp\htdocs\testlink\testlink-1.9.0\gui\templates_c\%%F8^F85^F85A18E7%%usersAssign.tpl.php - Line 189
+[<<][650e0da582946907324337][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/22 21:56:53][23/Sep/22 21:56:53][took 0.103801 secs]
+[<<][650e0db4dac39882887536][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/22 21:57:08][23/Sep/22 21:57:09][took 0.354827 secs]
+[>>][650e0db53d759567801618][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/22 21:57:09]
+	[23/Sep/22 21:57:09][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:09][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:09][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		All user roles were unassigned from the Test Project with id 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/22 21:57:09][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:09][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		User 'Aldahyr' was assigned the role 'senior tester' to the Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/22 21:57:09][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:09][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		User 'yohel' was assigned the role 'tester' to the Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/22 21:57:09][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:09][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:09][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:09][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:09][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:09][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Undefined index: checked_hide_inactive_users - in C:\xampp\htdocs\testlink\testlink-1.9.0\gui\templates_c\%%F8^F85^F85A18E7%%usersAssign.tpl.php - Line 189
+[<<][650e0db53d759567801618][DEFAULT][/lib/usermanagement/usersAssign.php][23/Sep/22 21:57:09][23/Sep/22 21:57:09][took 0.130184 secs]
+[<<][650e0db7df798124237665][DEFAULT][/testlink/testlink-1.9.0/logout.php][23/Sep/22 21:57:11][23/Sep/22 21:57:12][took 0.320886 secs]
+[>>][650e0db839e37060816511][DEFAULT][/testlink/testlink-1.9.0/logout.php][23/Sep/22 21:57:12]
+	[23/Sep/22 21:57:12][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:12][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'admin'
+	[23/Sep/23 03:13:30][AUDIT][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		Login for 'admin' from '::1' succeeded
+[<<][650e57da2dcdb554555597][DEFAULT][/testlink/testlink-1.9.0/login.php][23/Sep/23 03:13:30][23/Sep/23 03:13:30][took 0.041584 secs]
+	[23/Sep/23 03:13:30][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e57da57a1c406056226][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/23 03:13:30][23/Sep/23 03:13:30][took 0.156527 secs]
+[<<][650e57da9638f246749588][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/23 03:13:30][23/Sep/23 03:13:30][took 0.219457 secs]
+[>>][650e57dacc374862462351][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/23 03:13:30]
+	[23/Sep/23 03:13:30][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:13:30][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:13:30][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e57dacc374862462351][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/23 03:13:30][23/Sep/23 03:13:30][took 0.098617 secs]
+[<<][650e57dabecdd437219260][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/23 03:13:30][23/Sep/23 03:13:31][took 0.209326 secs]
+[>>][650e57db00f16178339577][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/23 03:13:31]
+	[23/Sep/23 03:13:31][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:13:31][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:13:31][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:13:31][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:13:31][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:13:31][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:13:31][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e57db00f16178339577][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/23 03:13:31][23/Sep/23 03:13:31][took 0.116603 secs]
+[<<][650e5800246db511289745][DEFAULT][/testlink-1.9.0/lib/cfields/cfieldsView.php][23/Sep/23 03:14:08][23/Sep/23 03:14:08][took 0.169289 secs]
+[>>][650e58004e2b8233512473][DEFAULT][/testlink-1.9.0/lib/cfields/cfieldsView.php][23/Sep/23 03:14:08]
+	[23/Sep/23 03:14:08][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:08][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:08][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e58004e2b8233512473][DEFAULT][/testlink-1.9.0/lib/cfields/cfieldsView.php][23/Sep/23 03:14:08][23/Sep/23 03:14:08][took 0.506825 secs]
+	[23/Sep/23 03:14:12][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e58041b146063709970][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/23 03:14:12][23/Sep/23 03:14:12][took 0.102709 secs]
+[<<][650e5804450af153745893][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/23 03:14:12][23/Sep/23 03:14:12][took 0.171743 secs]
+[>>][650e58046f448625277692][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/23 03:14:12]
+	[23/Sep/23 03:14:12][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:12][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:12][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e58046f448625277692][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/23 03:14:12][23/Sep/23 03:14:12][took 0.056716 secs]
+[<<][650e580445f45664070880][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/23 03:14:12][23/Sep/23 03:14:12][took 0.467686 secs]
+[>>][650e5804b9ab1086849871][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/23 03:14:12]
+	[23/Sep/23 03:14:12][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:12][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:12][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:12][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:12][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:12][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:12][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e5804b9ab1086849871][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/23 03:14:12][23/Sep/23 03:14:12][took 0.140473 secs]
+[<<][650e580ec29a6127109091][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/23 03:14:22][23/Sep/23 03:14:23][took 0.706513 secs]
+[>>][650e580f7b5f9801471178][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/23 03:14:23]
+	[23/Sep/23 03:14:23][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:23][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:23][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e580f7b5f9801471178][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/23 03:14:23][23/Sep/23 03:14:23][took 0.098972 secs]
+[<<][650e580fa9683517799583][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/23 03:14:23][23/Sep/23 03:14:24][took 0.748137 secs]
+[>>][650e58106c4e3879479313][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/23 03:14:24]
+	[23/Sep/23 03:14:24][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:24][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e58106c4e3879479313][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/23 03:14:24][23/Sep/23 03:14:24][took 0.044594 secs]
+[<<][650e580faa4c3114865413][DEFAULT][/testlink-1.9.0/lib/execute/execNavigator.php][23/Sep/23 03:14:23][23/Sep/23 03:14:24][took 0.959404 secs]
+[>>][650e5810b7bd5992950326][DEFAULT][/testlink-1.9.0/lib/execute/execNavigator.php][23/Sep/23 03:14:24]
+	[23/Sep/23 03:14:24][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:24][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:24][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:24][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:24][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:24][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:24][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:24][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:24][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:24][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:25][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:25][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:25][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:25][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:25][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:25][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e5810b7bd5992950326][DEFAULT][/testlink-1.9.0/lib/execute/execNavigator.php][23/Sep/23 03:14:24][23/Sep/23 03:14:25][took 0.426066 secs]
+[<<][650e58266ee3b553595952][DEFAULT][/lib/execute/execSetResults.php][23/Sep/23 03:14:46][23/Sep/23 03:14:47][took 0.98963 secs]
+[>>][650e58276cc11312108175][DEFAULT][/lib/execute/execSetResults.php][23/Sep/23 03:14:47]
+	[23/Sep/23 03:14:47][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:47][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:47][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:47][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:47][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:47][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:47][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:47][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:47][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e58276cc11312108175][DEFAULT][/lib/execute/execSetResults.php][23/Sep/23 03:14:47][23/Sep/23 03:14:51][took 3.774473 secs]
+[<<][650e5827cb373708861105][DEFAULT][/lib/execute/execSetResults.php][23/Sep/23 03:14:47][23/Sep/23 03:14:51][took 3.441689 secs]
+[>>][650e582b43478417096508][DEFAULT][/lib/execute/execSetResults.php][23/Sep/23 03:14:51]
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e582b43478417096508][DEFAULT][/lib/execute/execSetResults.php][23/Sep/23 03:14:51][23/Sep/23 03:14:51][took 0.206118 secs]
+[<<][650e58287c3ad316727527][DEFAULT][/lib/execute/execSetResults.php][23/Sep/23 03:14:48][23/Sep/23 03:14:51][took 2.910399 secs]
+[>>][650e582b80b72566655533][DEFAULT][/lib/execute/execSetResults.php][23/Sep/23 03:14:51]
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e582b80b72566655533][DEFAULT][/lib/execute/execSetResults.php][23/Sep/23 03:14:51][23/Sep/23 03:14:51][took 0.166521 secs]
+[<<][650e5828a44e1908700276][DEFAULT][/lib/execute/execSetResults.php][23/Sep/23 03:14:48][23/Sep/23 03:14:51][took 2.972796 secs]
+[>>][650e582bb545d192515877][DEFAULT][/lib/execute/execSetResults.php][23/Sep/23 03:14:51]
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/23 03:14:51][WARNING][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+[<<][650e582bb545d192515877][DEFAULT][/lib/execute/execSetResults.php][23/Sep/23 03:14:51][23/Sep/23 03:14:52][took 1.214385 secs]

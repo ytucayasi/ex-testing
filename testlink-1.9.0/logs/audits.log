@@ -1,0 +1,226 @@
+	[23/Sep/21 15:32:15][AUDIT][rq9j9moneg4sgfn6q9us3v7la7][GUI]
+		Login for 'admin' from '::1' succeeded
+	[23/Sep/21 22:28:19][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'admin' from '::1' succeeded
+	[23/Sep/21 23:31:15][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos' was created
+	[23/Sep/21 23:37:18][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos' was saved
+	[23/Sep/21 23:37:35][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		All user roles were unassigned from the Test Project with id 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/21 23:37:35][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos' was deleted
+	[23/Sep/21 23:39:26][AUDIT][<nosession>][GUI]
+		User 'Aldahyr' created by self-sign up
+	[23/Sep/21 23:39:41][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'aldahyr' from '::1' succeeded
+	[23/Sep/21 23:43:29][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'Aldahyr'
+	[23/Sep/21 23:43:40][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'admin' from '::1' succeeded
+	[23/Sep/21 23:47:24][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos' was created
+	[23/Sep/21 23:49:33][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'admin'
+	[23/Sep/21 23:49:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'admin' from '::1' succeeded
+	[23/Sep/21 23:50:01][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'admin'
+	[23/Sep/21 23:52:04][AUDIT][<nosession>][GUI]
+		User 'yohel' created by self-sign up
+	[23/Sep/21 23:52:13][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'admin' from '::1' succeeded
+	[23/Sep/21 23:52:50][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		All user roles were unassigned from the Test Project with id 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/21 23:52:50][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		User 'Aldahyr' was assigned the role 'test designer' to the Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/21 23:52:50][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		User 'yohel' was assigned the role 'tester' to the Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/21 23:52:53][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		All user roles were unassigned from the Test Project with id 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/21 23:52:53][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		User 'Aldahyr' was assigned the role 'test designer' to the Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/21 23:52:53][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		User 'yohel' was assigned the role 'tester' to the Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/21 23:54:08][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'admin'
+	[23/Sep/21 23:54:14][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'aldahyr' from '::1' succeeded
+	[23/Sep/21 23:58:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'Aldahyr'
+	[23/Sep/21 23:59:15][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'aldahyr' from '::1' succeeded
+	[23/Sep/22 00:03:14][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'Aldahyr'
+	[23/Sep/22 00:03:20][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'yohel' from '::1' succeeded
+	[23/Sep/22 00:03:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'yohel'
+	[23/Sep/22 00:04:03][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'aldahyr' from '::1' succeeded
+	[23/Sep/22 20:05:45][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'Aldahyr'
+	[23/Sep/22 20:05:49][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'aldahyr' from '::1' succeeded
+	[23/Sep/22 21:43:40][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'Aldahyr'
+	[23/Sep/22 21:47:59][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'aldahyr' from '::1' succeeded
+	[23/Sep/22 21:48:30][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'Aldahyr'
+	[23/Sep/22 21:48:35][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'yohel' from '::1' succeeded
+	[23/Sep/22 21:48:43][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'yohel'
+	[23/Sep/22 21:48:46][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'admin' from '::1' succeeded
+	[23/Sep/22 21:49:43][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos' - Test Plan 'ciclo 1' was created
+	[23/Sep/22 21:50:29][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos' - Test Plan 'ciclo 1' was saved
+	[23/Sep/22 21:52:00][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos' - Test Plan 'ciclo 1' - Build 'buil 1 de pruebas' was created
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-1 : CP-01-RQ-01' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-5 : CP-02-RQ-01' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-6 : CP-03-RQ-01' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-7 : CP-01-RQ-02' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-8 : CP-02-RQ-02' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-9 : CP-03-RQ-02' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-10 : CP-04-RQ-02' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-11 : CP-05-RQ-02' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-12 : CP-01-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-13 : CP-02-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-14 : CP-03-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-15 : CP-04-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-16 : CP-05-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-17 : CP-06-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-18 : CP-07-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-19 : CP-08-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-20 : CP-09-RQ-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-21 : CP-01-RQ-04' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-22 : CP-02-RQ-04' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-23 : CP-03-RQ-04' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-24 : CP-01-RQ-05' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-25 : CP-02-RQ-05' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-26 : CP-03-RQ-05' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-27 : CP-01-RQ-06' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-28 : CP-01-RQ-07' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-29 : CP-02-RQ-07' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-30 : CP-01-RQ-08' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-31 : CP-02-RQ-08' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-32 : CP-03-RQ-08' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-33 : CP-01-RQ-09' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-34 : CP-02-RQ-09' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-35 : CP-03-RQ-09' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-36 : CP-04-RQ-09' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-37 : CP-01-RQ-10' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-38 : CP-02-RQ-10' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-39 : CP-03-RQ-10' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-40 : CP-04-RQ-10' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-41 : CP-01-RQ-11' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:39][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-42 : CP-02-RQ-11' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-43 : CP-01-RQNF-01' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-44 : CP-02-RQNF-01' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-45 : CP-03-RQNF-01' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-46 : CP-01-RQNF-02' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-47 : CP-02-RQNF-02' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-48 : CP-03-RQNF-02' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-49 : CP-01-RQNF-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-50 : CP-02-RQNF-03' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-51 : CP-01-RQNF-04' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-52 : CP-02-RQNF-04' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-53 : CP-01-RQNF-05' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-54 : CP-02-RQNF-05' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-55 : CP-01-RQNF-06' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:53:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Test Case 'CP-56 : CP-02-RQNF-06' version 1 was added to Test Plan ciclo 1
+	[23/Sep/22 21:55:16][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		All user roles were unassigned from the Test Project with id 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/22 21:55:16][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		User 'Aldahyr' was assigned the role 'senior tester' to the Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/22 21:55:16][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		User 'yohel' was assigned the role 'tester' to the Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/22 21:55:52][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'admin'
+	[23/Sep/22 21:55:59][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'Aldahyr' from '::1' succeeded
+	[23/Sep/22 21:56:16][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'Aldahyr'
+	[23/Sep/22 21:56:22][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'aldahyr' from '::1' succeeded
+	[23/Sep/22 21:56:40][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'Aldahyr'
+	[23/Sep/22 21:56:47][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'admin' from '::1' succeeded
+	[23/Sep/22 21:57:09][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		All user roles were unassigned from the Test Project with id 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/22 21:57:09][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		User 'Aldahyr' was assigned the role 'senior tester' to the Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/22 21:57:09][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		User 'yohel' was assigned the role 'tester' to the Test Project 'Sistema_de_Gestión_de_Certificados_Grados _Títulos'
+	[23/Sep/22 21:57:12][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'admin'
+	[23/Sep/22 21:57:17][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'Aldahyr' from '::1' succeeded
+	[23/Sep/22 21:57:36][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'Aldahyr'
+	[23/Sep/22 21:57:40][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'yohel' from '::1' succeeded
+	[23/Sep/23 03:13:04][AUDIT][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		Login for 'Aldahyr' from '::1' succeeded
+	[23/Sep/23 03:13:24][AUDIT][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		Logout of 'Aldahyr'
+	[23/Sep/23 03:13:30][AUDIT][15hul7daa7531gqdtnf8rp9jb1][GUI]
+		Login for 'admin' from '::1' succeeded

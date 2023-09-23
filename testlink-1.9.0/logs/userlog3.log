@@ -1,0 +1,840 @@
+	[23/Sep/22 00:03:20][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'yohel' from '::1' succeeded
+[<<][650cd9c85b288829707132][DEFAULT][/testlink/testlink-1.9.0/login.php][23/Sep/22 00:03:20][23/Sep/22 00:03:20][took 0.007185 secs]
+	[23/Sep/22 00:03:20][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 00:03:20][WARNING][<nosession>][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+[<<][650cd9c86889d047761782][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/22 00:03:20][23/Sep/22 00:03:20][took 0.0692 secs]
+[<<][650cd9c8833f0286460617][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 00:03:20][23/Sep/22 00:03:20][took 0.108506 secs]
+[>>][650cd9c89e4a5701506353][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 00:03:20]
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'title_admin' is not localized for locale 'es_ES'
+[<<][650cd9c89e4a5701506353][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 00:03:20][23/Sep/22 00:03:20][took 0.05754 secs]
+[<<][650cd9c88854d450272396][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 00:03:20][23/Sep/22 00:03:20][took 0.172939 secs]
+[>>][650cd9c8b2dbc206117326][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 00:03:20]
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'current_test_plan' is not localized for locale 'es_ES'
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_platform_assign' is not localized for locale 'es_ES'
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_search_req' is not localized for locale 'es_ES'
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_search_req_spec' is not localized for locale 'es_ES'
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_inventory' is not localized for locale 'es_ES'
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_platform_management' is not localized for locale 'es_ES'
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_inventory_management' is not localized for locale 'es_ES'
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_req_overview' is not localized for locale 'es_ES'
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_print_req' is not localized for locale 'es_ES'
+	[23/Sep/22 00:03:20][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'title_documentation' is not localized for locale 'es_ES'
+[<<][650cd9c8b2dbc206117326][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 00:03:20][23/Sep/22 00:03:20][took 0.137709 secs]
+[<<][650cd9eb523b1990073624][DEFAULT][/testlink/testlink-1.9.0/logout.php][23/Sep/22 00:03:55][23/Sep/22 00:03:55][took 0.112355 secs]
+[>>][650cd9eb6de06066383836][DEFAULT][/testlink/testlink-1.9.0/logout.php][23/Sep/22 00:03:55]
+	[23/Sep/22 00:03:55][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 00:03:55][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'yohel'
+	[23/Sep/22 21:48:35][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'yohel' from '::1' succeeded
+[<<][650e0bb3ca390790382961][DEFAULT][/testlink/testlink-1.9.0/login.php][23/Sep/22 21:48:35][23/Sep/22 21:48:35][took 0.020325 secs]
+	[23/Sep/22 21:48:35][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:35][WARNING][<nosession>][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+[<<][650e0bb3db4cf814294585][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/22 21:48:35][23/Sep/22 21:48:35][took 0.06616 secs]
+[<<][650e0bb40083b394412644][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:48:36][23/Sep/22 21:48:36][took 0.103796 secs]
+[>>][650e0bb41a220995180155][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:48:36]
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'title_admin' is not localized for locale 'es_ES'
+[<<][650e0bb41a220995180155][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:48:36][23/Sep/22 21:48:36][took 0.056256 secs]
+[<<][650e0bb40083d229456964][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:48:36][23/Sep/22 21:48:36][took 0.186782 secs]
+[>>][650e0bb42e67b329060536][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:48:36]
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'current_test_plan' is not localized for locale 'es_ES'
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_platform_assign' is not localized for locale 'es_ES'
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_search_req' is not localized for locale 'es_ES'
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_search_req_spec' is not localized for locale 'es_ES'
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_inventory' is not localized for locale 'es_ES'
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_platform_management' is not localized for locale 'es_ES'
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_inventory_management' is not localized for locale 'es_ES'
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_req_overview' is not localized for locale 'es_ES'
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_print_req' is not localized for locale 'es_ES'
+	[23/Sep/22 21:48:36][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'title_documentation' is not localized for locale 'es_ES'
+[<<][650e0bb42e67b329060536][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:48:36][23/Sep/22 21:48:36][took 0.158723 secs]
+[<<][650e0bbb3517a637632118][DEFAULT][/testlink/testlink-1.9.0/logout.php][23/Sep/22 21:48:43][23/Sep/22 21:48:43][took 0.073249 secs]
+[>>][650e0bbb473f4231085834][DEFAULT][/testlink/testlink-1.9.0/logout.php][23/Sep/22 21:48:43]
+	[23/Sep/22 21:48:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:48:43][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Logout of 'yohel'
+	[23/Sep/22 21:57:40][AUDIT][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		Login for 'yohel' from '::1' succeeded
+[<<][650e0dd48e5fc084694695][DEFAULT][/testlink/testlink-1.9.0/login.php][23/Sep/22 21:57:40][23/Sep/22 21:57:40][took 0.013674 secs]
+	[23/Sep/22 21:57:40][WARNING][<nosession>][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:40][WARNING][<nosession>][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+[<<][650e0dd49e874573091787][DEFAULT][/testlink/testlink-1.9.0/index.php][23/Sep/22 21:57:40][23/Sep/22 21:57:40][took 0.068861 secs]
+[<<][650e0dd4bdb0e023509704][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:57:40][23/Sep/22 21:57:40][took 0.144535 secs]
+[>>][650e0dd4e13df678896417][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:57:40]
+	[23/Sep/22 21:57:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:40][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'current_test_plan' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_platform_assign' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_search_req' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_search_req_spec' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_inventory' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_platform_management' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_inventory_management' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_req_overview' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_print_req' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'title_documentation' is not localized for locale 'es_ES'
+[<<][650e0dd4e13df678896417][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:57:40][23/Sep/22 21:57:41][took 0.182189 secs]
+[<<][650e0dd4bdcf7583455121][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:57:40][23/Sep/22 21:57:41][took 0.341116 secs]
+[>>][650e0dd520084945945227][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:57:41]
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:41][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'title_admin' is not localized for locale 'es_ES'
+[<<][650e0dd520084945945227][DEFAULT][/testlink-1.9.0/lib/general/navBar.php][23/Sep/22 21:57:41][23/Sep/22 21:57:41][took 0.043818 secs]
+[<<][650e0dd6b9af3222694997][DEFAULT][/lib/testcases/tcAssignedToUser.php][23/Sep/22 21:57:42][23/Sep/22 21:57:43][took 0.29674 secs]
+[>>][650e0dd70e415158739660][DEFAULT][/lib/testcases/tcAssignedToUser.php][23/Sep/22 21:57:43]
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'tcversion_indicator' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'goto_testspec' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'assigned_tc_overview' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'design' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'execution' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'platform' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'due_since' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'due_since' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'expand_collapse_groups' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_all_columns' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_all_columns_tooltip' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'default_state' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'multisort' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'multisort_tooltip' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'multisort_button_tooltip' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_reset_filters' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'due_since' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'platform' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'goto_testspec' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:43][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_closed_builds_btn' is not localized for locale 'es_ES'
+[<<][650e0dd70e415158739660][DEFAULT][/lib/testcases/tcAssignedToUser.php][23/Sep/22 21:57:43][23/Sep/22 21:57:43][took 0.834963 secs]
+[<<][650e0ddb17b48693495040][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:57:47][23/Sep/22 21:57:47][took 0.304011 secs]
+[>>][650e0ddb62251881056803][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:57:47]
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'current_test_plan' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_platform_assign' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_search_req' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_search_req_spec' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_inventory' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_platform_management' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_inventory_management' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_req_overview' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'href_print_req' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'title_documentation' is not localized for locale 'es_ES'
+[<<][650e0ddb62251881056803][DEFAULT][/testlink-1.9.0/lib/general/mainPage.php][23/Sep/22 21:57:47][23/Sep/22 21:57:47][took 0.192409 secs]
+[<<][650e0ddd03df2227251547][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/22 21:57:49][23/Sep/22 21:57:49][took 0.274118 secs]
+[>>][650e0ddd46f62883697612][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/22 21:57:49]
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+[<<][650e0ddd46f62883697612][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/22 21:57:49][23/Sep/22 21:57:49][took 0.036876 secs]
+[<<][650e0ddd5bb07895297684][DEFAULT][/testlink-1.9.0/lib/execute/execNavigator.php][23/Sep/22 21:57:49][23/Sep/22 21:57:49][took 0.352925 secs]
+[>>][650e0dddb21e5901450462][DEFAULT][/testlink-1.9.0/lib/execute/execNavigator.php][23/Sep/22 21:57:49]
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_somebody' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'exec_build' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'tag_for_inactive_users' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_hide_cf' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_result_latest_execution' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_result_all_builds' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_result_any_build' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_result_specific_build' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_result_current_build' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:49][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_on' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'platform' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'exec_build' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'keyword' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'caption_nav_filters' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'caption_nav_settings' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'caption_nav_settings' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'caption_nav_filters' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'platform' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_on' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'keyword' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'caption_nav_filters' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'platform' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_remove_all_tester_assignments' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_reset_filters' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_bulk_update_to_latest_version' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'document_id' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'req_expected_coverage' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'req_type' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'req_spec_type' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'has_relation_type' is not localized for locale 'es_ES'
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_export_testplan_tree' is not localized for locale 'es_ES'
+[<<][650e0dddb21e5901450462][DEFAULT][/testlink-1.9.0/lib/execute/execNavigator.php][23/Sep/22 21:57:49][23/Sep/22 21:57:50][took 0.428197 secs]
+[<<][650e0ddd5bd45778163535][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/22 21:57:49][23/Sep/22 21:57:50][took 0.740763 secs]
+[>>][650e0dde2bb94092402735][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/22 21:57:50]
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:57:50][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+[<<][650e0dde2bb94092402735][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/22 21:57:50][23/Sep/22 21:57:50][took 0.040115 secs]
+[<<][650e0e416ea7b101427341][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/22 21:59:29][23/Sep/22 21:59:29][took 0.267809 secs]
+[>>][650e0e41b0316313094692][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/22 21:59:29]
+	[23/Sep/22 21:59:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:29][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+[<<][650e0e41b0316313094692][DEFAULT][/testlink-1.9.0/lib/general/frmWorkArea.php][23/Sep/22 21:59:29][23/Sep/22 21:59:29][took 0.037099 secs]
+[<<][650e0e41c6576494073613][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/22 21:59:29][23/Sep/22 21:59:30][took 0.270011 secs]
+[>>][650e0e4214474384815471][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/22 21:59:30]
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+[<<][650e0e4214474384815471][DEFAULT][/testlink-1.9.0/lib/general/staticPage.php][23/Sep/22 21:59:30][23/Sep/22 21:59:30][took 0.02465 secs]
+[<<][650e0e41c669f836027815][DEFAULT][/testlink-1.9.0/lib/execute/execNavigator.php][23/Sep/22 21:59:29][23/Sep/22 21:59:30][took 0.318749 secs]
+[>>][650e0e422ed92921433514][DEFAULT][/testlink-1.9.0/lib/execute/execNavigator.php][23/Sep/22 21:59:30]
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_somebody' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'exec_build' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'tag_for_inactive_users' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_hide_cf' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_result_latest_execution' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_result_all_builds' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_result_any_build' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_result_specific_build' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_result_current_build' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_on' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'platform' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'exec_build' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'keyword' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'caption_nav_filters' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'caption_nav_settings' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'caption_nav_settings' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'caption_nav_filters' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'platform' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'filter_on' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'keyword' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'caption_nav_filters' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'platform' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_remove_all_tester_assignments' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_reset_filters' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_bulk_update_to_latest_version' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'document_id' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'req_expected_coverage' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'req_type' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'req_spec_type' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'has_relation_type' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:30][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'btn_export_testplan_tree' is not localized for locale 'es_ES'
+[<<][650e0e422ed92921433514][DEFAULT][/testlink-1.9.0/lib/execute/execNavigator.php][23/Sep/22 21:59:30][23/Sep/22 21:59:30][took 0.346941 secs]
+[<<][650e0e52bc1cc094889502][DEFAULT][/testlink-1.9.0/lib/testcases/archiveData.php][23/Sep/22 21:59:46][23/Sep/22 21:59:47][took 0.269923 secs]
+[>>][650e0e530a0c7439828635][DEFAULT][/testlink-1.9.0/lib/testcases/archiveData.php][23/Sep/22 21:59:47]
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Undefined variable: cf_current_version - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\testcase.class.php - Line 948
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Undefined variable: cf_other_versions - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\testcase.class.php - Line 949
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_reorder' is not localized for locale 'es_ES'
+[<<][650e0e530a0c7439828635][DEFAULT][/testlink-1.9.0/lib/testcases/archiveData.php][23/Sep/22 21:59:47][23/Sep/22 21:59:47][took 0.064641 secs]
+[<<][650e0e5362632767304555][DEFAULT][/testlink-1.9.0/lib/testcases/archiveData.php][23/Sep/22 21:59:47][23/Sep/22 21:59:47][took 0.273844 secs]
+[>>][650e0e53a5655975678261][DEFAULT][/testlink-1.9.0/lib/testcases/archiveData.php][23/Sep/22 21:59:47]
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_direct_link' is not localized for locale 'es_ES'
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Array to string conversion - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\common.php - Line 583
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Undefined variable: cf_current_version - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\testcase.class.php - Line 948
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		E_NOTICE
+Undefined variable: cf_other_versions - in C:\xampp\htdocs\testlink\testlink-1.9.0\lib\functions\testcase.class.php - Line 949
+	[23/Sep/22 21:59:47][WARNING][6aia3po9o5utdgdkcs4bahrna6][GUI]
+		string 'show_hide_reorder' is not localized for locale 'es_ES'
+[<<][650e0e53a5655975678261][DEFAULT][/testlink-1.9.0/lib/testcases/archiveData.php][23/Sep/22 21:59:47][23/Sep/22 21:59:47][took 0.065619 secs]
